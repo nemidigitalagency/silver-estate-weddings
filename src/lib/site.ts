@@ -4,7 +4,7 @@ export const SITE = {
   location: "Tikamgarh, Madhya Pradesh, India",
   phone: "+91 9651018681",
   phoneRaw: "+919651018681",
-  email: "nemidigitalagency@gmail.com",
+  email: "akjshopqr@gmail.com",
   instagram: "https://instagram.com/silver_estate_resort",
   instagramHandle: "@silver_estate_resort",
   whatsapp: "https://wa.me/919651018681",
