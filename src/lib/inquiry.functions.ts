@@ -12,7 +12,7 @@ const InquirySchema = z.object({
   message: z.string().max(2000).optional().default(""),
 });
 
-const RECIPIENT = "akjshopqr@gmail.com";
+const RECIPIENT = "nemidigitalagency@gmail.com";
 
 function encodeBase64Url(str: string): string {
   // Use Buffer for proper UTF-8 handling in the Worker runtime
